@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Weather Lite</string>
+
+    <string name="quote">Enjoy the beautiful colors \n of nature in the sky</string>
+    <string name="prime">Prime Weather</string>
+    <string name="description1">Sun And Cloud</string>
+    <string name="developer">Design By \n Ghulam Mustafa</string>
+    <string name="temperature">00:00 °C</string>
+    <string name="text">TextView</string>
+    <string name="today">Today</string>
+    <string name="sunny">Sunny</string>
+    <string name="maximumTemperature">Max : 00:00 °C</string>
+    <string name="minimumTemperature">Min : 00:00 °C</string>
+    <string name="day">Sunday</string>
+    <string name="date">19 December 2023</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunsetPic">Sunset Pic</string>
+    <string name="sunsetUpdate">00:00</string>
+    <string name="weatherUpdate">SUNNY</string>
+    <string name="weatherName">Conduction</string>
+    <string name="humidityUpdate">00 %</string>
+    <string name="humidityName">Humidity</string>
+    <string name="seaUpdate">0000 hPa</string>
+    <string name="seaName">Sea</string>
+    <string name="windspeeddUpdate">0.00 m/s</string>
+    <string name="windspeedName">Wind Speed</string>
+    <string name="SunRiseUpdate">00:00</string>
+    <string name="SunRiseName">Sunrise</string>
+    <string name="conductionPic">Sun and cloud Pic</string>
+    <string name="sunrisePic">A raising pic</string>
+    <string name="windspeedPic">A wind Speeding pic</string>
+    <string name="seaPic">A sea layers of pic</string>
+    <string name="humidityPic">A sea thermometer pic</string>
+</resources>
