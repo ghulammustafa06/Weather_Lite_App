@@ -21,16 +21,6 @@ The Weather Lite App is a simple weather application developed in Kotlin for And
 - User-friendly interface with a search bar
 
 
-## Screenshots
-
-![Splash Screen](https://github.com/ghulammustafa06/MLSA-Task/assets/130176095/bd5cc0e0-044c-4040-813b-d9f3658cbd4a)
-
-![Rainy Screen](https://github.com/ghulammustafa06/MLSA-Task/assets/130176095/9bf626fb-500a-4a6b-a457-53ebfdb980df)
-
-![Sunny screen](https://github.com/ghulammustafa06/MLSA-Task/assets/130176095/3d438d57-8852-4928-bd41-257882201f4b)
-
-![cloudy Screen](https://github.com/ghulammustafa06/MLSA-Task/assets/130176095/76165eae-b193-4ecf-995a-92266839cef4)
-
 
 ## Technologies Used
 - Kotlin
